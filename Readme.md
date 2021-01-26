@@ -1,4 +1,4 @@
-# fortheboys
+# FlexLoader
 
 ![screenshot](https://raw.githubusercontent.com/doonayy/fortheboys/main/miscs/loader.png?token=AMGBK7FPKL6U4GSJ2E4MQRS7ZZSUS)
 
