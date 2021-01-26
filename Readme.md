@@ -4,4 +4,4 @@
 
 Fork of [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) featuring [VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) and [nSkinz](https://github.com/HighDelay/nSkinz)
 
-## [Download](https://github.com/doonayy/...)
+## [Download](https://github.com/doonayy/FlexLoader/releases/download/final/SimpleLoader.exe)
